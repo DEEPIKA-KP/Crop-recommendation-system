@@ -1,0 +1,4 @@
+IDE Anaconda
+
+   |
+   |__Syder python ide.
